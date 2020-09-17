@@ -22,6 +22,7 @@ variable "card_number" {
   description = "credit card number"
 }
 
+
 variable "card_cvv" {
   description = "cvv"
 }
